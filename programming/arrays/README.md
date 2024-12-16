@@ -9,6 +9,17 @@ https://www.tutorialspoint.com/compile_pascal_online.php
 ## Задачі:
 
 ### Задача 1
+Виведіть числа 10 разів `Hello world`  
+Використовуйте цикл `for`  
+
+Приклад виводу
+   
+    Hello world
+    Hello world
+    ...
+    Hello world
+
+### Задача 1.2
 Виведіть числа `1 2 3 4 5`  
 Використовуйте цикл `for`  
 
