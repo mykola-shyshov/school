@@ -20,9 +20,9 @@ https://www.tutorialspoint.com/compile_pascal_online.php
     Hello world
 
 ### Задача 1.2
-Виведіть N разів `Hello world`  
+Виведіть `N` разів `Hello world`  
 Використовуйте цикл `for`  
-N задається з клавіатури  
+`N` задається з клавіатури  
 
 ### Задача 1.3
 Виведіть числа `1 2 3 4 5`  
