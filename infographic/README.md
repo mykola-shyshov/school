@@ -1,3 +1,7 @@
+# Теорія
+https://obolon365-my.sharepoint.com/:p:/p/shyshov_m/EfA2xpmmSaJOo9dXzsVotzkBc1CkTSs1oLz3QZYbqQYmiQ?e=a57uE1  
+https://obolon365-my.sharepoint.com/:p:/p/shyshov_m/EbmEwCkq9QpHhLN_-jkzemUBfSf-vIF01Y8i_iWys3JBaw?e=nEahVV  
+
 # Інструменти
 https://www.easel.ly/  
 https://app.creately.com/  
