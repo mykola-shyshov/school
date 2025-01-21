@@ -1,5 +1,5 @@
 Паскаль компілятор:  
-https://www.tutorialspoint.com/compile_pascal_online.php
+[тут](https://www.onlinegdb.com/online_pascal_compiler)
 
 ## Теорія: 
 Прочитайте   
