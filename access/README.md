@@ -1,3 +1,6 @@
+# Друзі
+https://obolon365-my.sharepoint.com/:w:/p/shyshov_m/ESnqF7qH-BZMnmBSyr5Xx-sBaeKhrw_MpiWRbEGFdZ264w?e=EZRVTz
+
 # Товари
 https://www.youtube.com/watch?v=fn2EVVZW9WI
 
