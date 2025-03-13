@@ -18,6 +18,9 @@
         print(i)
         i = i + 1
 
+Покрокове виконання  
+https://github.com/mykola-shyshov/school/blob/main/python/while-exec.pdf
+
 ## Задача 5.1
 Порахуйте суму чисел `1 + 2 + 3 + 4 + 5 + ... + 100`  
 Використовуйте цикл `while`  
