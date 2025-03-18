@@ -9,3 +9,9 @@ https://www.youtube.com/watch?v=fn2EVVZW9WI
 https://www.youtube.com/watch?v=XrpYmxbP6zs
 ## 2 - звязки
 https://www.youtube.com/watch?v=Y60hNb9pm3w
+
+# Тест
+https://learningapps.org/33365129
+https://learningapps.org/8858012
+https://learningapps.org/6401207
+https://learningapps.org/8870854
