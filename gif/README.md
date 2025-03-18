@@ -1,5 +1,5 @@
 ### Editor 
-https://www.kapwing.com/
+https://www.kapwing.com/studio/editor
 ### Gif creator
 https://imgflip.com/gif-maker
 ### Bubble sort
