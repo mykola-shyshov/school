@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=XrpYmxbP6zs
 https://www.youtube.com/watch?v=Y60hNb9pm3w
 
 # Тест
-https://learningapps.org/33365129
-https://learningapps.org/8858012
-https://learningapps.org/6401207
-https://learningapps.org/8870854
+https://learningapps.org/33365129  
+https://learningapps.org/8858012  
+https://learningapps.org/6401207  
+https://learningapps.org/8870854  
