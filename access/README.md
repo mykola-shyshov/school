@@ -9,6 +9,8 @@ https://www.youtube.com/watch?v=fn2EVVZW9WI
 https://www.youtube.com/watch?v=XrpYmxbP6zs
 ## 2 - звязки
 https://www.youtube.com/watch?v=Y60hNb9pm3w
+## Запити
+https://www.youtube.com/watch?v=DQJTGI3Sswg
 
 # Тест
 https://learningapps.org/33365129  
