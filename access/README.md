@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=XrpYmxbP6zs
 https://www.youtube.com/watch?v=Y60hNb9pm3w
 ## Запити
 https://www.youtube.com/watch?v=DQJTGI3Sswg
+https://www.youtube.com/watch?v=Uc6ffxD2Vug
 
 # Тест
 https://learningapps.org/33365129  
