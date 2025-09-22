@@ -1,4 +1,4 @@
-Виконайте завдання з документа: https://docs.google.com/document/d/183UxQyKyfjEdct4j_dtGK0MkBMS9T36sChcgvGFTDls/edit?usp=sharing  
+Виконайте завдання: https://docs.google.com/document/d/183UxQyKyfjEdct4j_dtGK0MkBMS9T36sChcgvGFTDls/edit?usp=sharing  
 Посилання:  
 - https://chatgpt.com/
 - https://app.grammarly.com/
